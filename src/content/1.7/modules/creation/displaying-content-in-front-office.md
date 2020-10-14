@@ -221,7 +221,7 @@ div#mymodule_block_home p {
 ```
 
 Save the template file in the module's `/views/templates/hook/` folder
-and the CSS file in the module's `/css/` folder, reload your shop's
+and the CSS file in the module's `views/css/` folder, reload your shop's
 homepage: the content of the template should appear on top of the left
 column, right below the shop's logo (if you have indeed moved it at the
 top of the "Left Column" hook during the transplanting part).
